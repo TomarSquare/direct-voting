@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cts.direct.voting</groupId>
-	<artifactId>direct-voting-1.0.0</artifactId>
+	<artifactId>direct-voting</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>direct-voting-1.0.0</name>
+	<name>direct-voting</name>
 	<description>Direct voting project</description>
 
 	<properties>
